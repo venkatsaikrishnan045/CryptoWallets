@@ -26,14 +26,7 @@ crypto-wallets/
 └── assets/
     ├── icons/          # Icons and images
     └── fonts/          # (Optional) Custom fonts
-🔧 How to Use
-Clone this repository:
-git clone https://github.com/yourusername/crypto-wallets.git
-Navigate to the project folder:
-cd crypto-wallets
-Open the project in your browser:
-Just double-click index.html OR
-Use Live Server extension in VSCode for best experience
+
 
 Live Demo - https://venkatsaikrishnan045.github.io/CryptoWallets/
 
